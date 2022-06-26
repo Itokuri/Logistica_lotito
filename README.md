@@ -1,4 +1,17 @@
 # Logistica-Lotito
-Proyecto pq si
+Integrantes:
+Maximo Escobar
+Manuel Filippa
+Geraldine Abregu
+Christian Forte
+Alison Gargate
+Victoria Laura
+Maximiliano Ortiz
 
-Agreguen sus trabajos en carpetas y las suben
+Errores a destacar:
+Desorganizacion
+Interfaz simple
+Codigo innecesario
+
+De faltar algo para entregar avisar al 0800 paseme con 20 por favor
+
